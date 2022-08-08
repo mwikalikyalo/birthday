@@ -17,7 +17,8 @@ def main():
       print(q3)
   else:
       print("There is an error in the age you entered.")
-        
+  
+  #when you will turn 80      
   q2= input("Would you like to find out when you will be 80?").capitalize()
   if q2== "Yes":
       print(q3+80)
